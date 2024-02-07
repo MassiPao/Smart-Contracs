@@ -6,6 +6,6 @@ lo smart contract è visualizzabile al seguente indirizzo https://mumbai.polygon
 
 il file ERC721.sol contiene il contratto del mio primo NFT minter di token ERC721 chiamato MyNFTs con tiker MNFT deployato su testnet di Polygon Mumbai
 
-lo smart contract è visualizzabile al seguente indirizzo https://mumbai.polygonscan.com/address/0xf7781dd5af5fc0764a99e55fd0c4b7f4a8511f1c
+lo smart contract è visualizzabile al seguente indirizzo https://mumbai.polygonscan.com/address/0x8917Ee16e79dD55AEb287D3AC1AC5b78452D557E
 
 questo contratto permette di mintare NFT adeguando il file.json di riferimento
