@@ -2,7 +2,7 @@
 
 il file MyTokenERC20.sol contiene il contratto del mio primo token ERC20 chiamato MyTokenERC20 con ticker MT20 deployato su testent di Polygon Amoy.
 
-lo smart contract è visualizzabile al seguente indirizzo https://amoy.polygonscan.com/address/0x701793aca444bebe3e455e3ef4168635aefb5965
+lo smart contract è visualizzabile al seguente indirizzo https://amoy.polygonscan.com/token/0x701793aca444bebe3e455e3ef4168635aefb5965
 
 il file ERC721.sol contiene il contratto del mio NFT minter (di token ERC721) chiamato MyNFTs con tiker MNFT deployato su testnet di Polygon Amoy
 
