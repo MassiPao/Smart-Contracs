@@ -14,7 +14,7 @@ contract GameAssets is ERC1155, Ownable {
     uint256 public constant ARGENTO = 4;
     
 
-    constructor(address initialOwner) ERC1155("https://coral-advanced-wolf-753.mypinata.cloud/ipfs/QmbjJtcBfsmo2Wx7dd4W9WfkAuCRLfxukRrb1ZEEJ6prR5/{id}.json") Ownable(initialOwner) {
+    constructor(address initialOwner) ERC1155("https://coral-advanced-wolf-753.mypinata.cloud/ipfs/QmbjJtcBfsmo2Wx7dd4W9WfkAuCRLfxukRrb1ZEEJ6prR5/") Ownable(initialOwner) {
         mint(msg.sender, SPADA, 1, "");     //DEFINISCO GLI ID
         mint(msg.sender, SCUDO, 1, "");    //automatizzando la parte di minting
         mint(msg.sender, ORO, 100, "");
